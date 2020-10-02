@@ -1,0 +1,21 @@
+{
+  "reads": [
+    { "status_temp_dht": false,
+      "value_temp_dht": 0,
+      "status_hum_dht": false,
+      "value_hum_dht": 0,
+      "status_tsl": false,
+      "value_tsl": 0,
+      "status_hum_htu": false,
+      "value_hum_htu": 0,
+      "status_temp_htu": false,
+      "value_temp_htu": 0
+    }
+  ],
+  "writes": [
+    { 
+      "pump": 1,
+      "fan": 0
+    }
+  ]
+}
